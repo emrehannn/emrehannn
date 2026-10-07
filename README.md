@@ -36,4 +36,4 @@ What I care about most is AI: training models, wiring up AI workflows, and build
 - 🌐 [walkingames.com](https://walkingames.com)
 - 🐦 [X / Twitter](https://x.com/_Alternative_54)
 - 💻 [GitHub](https://github.com/emrehannn)
-- ✉️ [hello@walkingames.com](mailto:hello@walkingames.com)
+- ✉️ [emrehan@walkingames.com](mailto:emrehan@walkingames.com)

@@ -1,4 +1,4 @@
-## Hi there, I'm Emrehan Dalaman 👋
+## Hello there, I'm Emrehan Dalaman 👋
 
 I'm a game developer, NLP student, and AI tinkerer. By day I build games full-time at a studio; the rest of the time I'm building more games at **[WalkinGames](https://walkingames.com)**, the indie studio I co-founded with a friend, or studying **Natural Language Processing at Trier University**.
 
